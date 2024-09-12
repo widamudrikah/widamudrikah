@@ -4,7 +4,15 @@ Perkenalkan nama saya **Wida Mudrikah**.<br>
 
 Saya seorang **Mahasiswa** di [Politeknik IDN Bogor](https://idn.ac.id/).<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wida-mudrikah/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wida-mudrikah/) ku ya.
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/widamudrikah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=widamudrikah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=widamudrikah&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 
 <!--
