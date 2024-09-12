@@ -4,7 +4,7 @@ Perkenalkan nama saya **Wida Mudrikah**.<br>
 
 Saya seorang **Mahasiswa** di [Politeknik IDN Bogor](https://idn.ac.id/).<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wida-mudrikah/)ku ya.
 
 
 <!--
