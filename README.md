@@ -1,4 +1,11 @@
-## Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Wida Mudrikah**.<br>
+
+Saya seorang **Mahasiswa** di [Politeknik IDN Bogor](https://idn.ac.id/).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+
 
 <!--
 **widamudrikah/widamudrikah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
