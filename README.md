@@ -6,6 +6,12 @@ Saya seorang **Mahasiswa** di [Politeknik IDN Bogor](https://idn.ac.id/).<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wida-mudrikah/) ku ya.
 
+- 🔭 I’m currently working on <a href="https://idn.sch.id/">IDN Boarding School</a>
+- 🌱 I’m currently learning about web development
+- 💬 Feel free to ask me about web development or JavaScript
+- 📫 How to reach me: mudrikahwida@gmail.com
+
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/widamudrikah">
